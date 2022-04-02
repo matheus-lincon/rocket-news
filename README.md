@@ -38,7 +38,7 @@ O usuário deve:
 
 ### Links
 
-- Live Site URL: [Interactive Rating Component](https://matheus-lincon.github.io/rocket-news/)
+- Live Site URL: [Rocket News](https://matheus-lincon.github.io/rocket-news/)
 
 ---
 
