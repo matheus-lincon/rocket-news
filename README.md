@@ -31,7 +31,7 @@ O usuário deve:
 
 ### Screenshot
 
-<img src="./screenshots/mobile-screenshot.png" min-width="375px">
+<img src="./screenshots/mobile-screenshot.png" width="375px">
 <img src="./screenshots/desktop-screenshot.png" min-width="375px">
 
 ---
