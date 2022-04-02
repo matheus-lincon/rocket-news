@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;700&family=Work+Sans:wght@400;500;700&display=swap');
+
+:root {
+  --body-bg-color: #121214;
+  --text-color: #e1e1e6;
+  --title-color: #04d361;
+  --form-color: #a8a8a8;
+  --bg-button-color: #8257e5;
+
+  --first-font-family: 'Work Sans', sans-serif;
+  --second-font-family: 'Spartan', sans-serif;
+
+  --margin: 2rem;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  background-color: var(--body-bg-color);
+  font-size: 100%;
+}
