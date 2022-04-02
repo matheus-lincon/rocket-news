@@ -1,6 +1,6 @@
 # Rocketseat Desafios - RocketNews
 
-Esse é uma solução para o desafio [**RocketNews**](https://app.rocketseat.com.br/discover/challenges/rocketnews) da [**Rocketseat**](app.rocketseat.com.br).
+Esse é uma solução para o desafio [**RocketNews**](https://app.rocketseat.com.br/discover/challenges/rocketnews) da [**Rocketseat**](https://app.rocketseat.com.br).
 
 Uma página que pode ser utilizada no futuro para captação de leads ou newsletter.
 
